@@ -1,0 +1,51 @@
+# netbeans project files
+nbproject
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+/widgets/
+/yii.bat
+/yii
+/requirements.php
+/docker-compose.yml
+/composer.lock
+/composer.json
+/codeception.yml
+/Vagrantfile
+/README.md
+/LICENSE.md
+/.bowerrc
+/vagrant/
+/tests/
+/runtime/
+/mail/
+/commands/
+/web/bootstrap/
+/web/image/
+/web/photo/
+/web/source/
+/web/lib/
+/web/audio/
+/web/robots.txt
+/web/index-test.php
+/assets/AppAsset.php
+/components/
+/config/console.php
+/config/params.php
+/config/test.php
+/config/test_db.php
+/controllers/SiteController.php
+/models/LoginForm.php
+/models/User.php
+/models/ContactForm.php
+/views/site/
+/views/viki/
+/views/layouts/main.php
+/controllers/admin/
